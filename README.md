@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Fatih Emre 👋
+
+- ❤ love researching how to build software
+- ❤ love supporting people to do great work in the field of software design
+
+![Fatih Emre's github stats](https://github-readme-stats.vercel.app/api?username=fedemirbas)
 
 <!--
 **fedemirbas/fedemirbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

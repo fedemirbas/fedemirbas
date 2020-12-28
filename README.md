@@ -12,6 +12,9 @@
 
 - ⚡ Fun fact **Love Coffee and Coding**
 
+### Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=fedemirbas)](https://github.com/fedemirbas/github-profile-trophy)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedemirbas&layout=compact&hide=html" alt="fedemirbas" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fedemirbas&show_icons=true" alt="fedemirbas" /></p>
 

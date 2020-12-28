@@ -17,4 +17,5 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/fatihemredemirbas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fedemirbas" height="30" width="30" /></a>
+<a href="https:https://medium.com/@fedemirbas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="fedemirbas" height="30" width="30" /></a>
 </p>

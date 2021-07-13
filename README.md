@@ -1,6 +1,6 @@
 ### Hi, I'm Fatih Emre 👋
 
-- 🔭 I’m currently working on [Fineksus A.S.](https://www.fineksus.com/)
+- 🔭 I’m currently working on [Kuveyt Turk Participation Bank A.S.](https://www.kuveytturk.com.tr/en/)
 
 - 🌱 I’m currently learning **NodeJs, Go and Python**
 

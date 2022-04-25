@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Kuveyt Turk Participation Bank A.S.](https://www.kuveytturk.com.tr/en/)
 
-- 🌱 I’m currently learning **NodeJs, Go and Python**
+- 🌱 I’m currently learning **NodeJs, Go**
 
 - 👯 I’m looking to collaborate on [Open Source Projects](http://github.com/fedemirbas)
 

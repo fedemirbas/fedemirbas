@@ -1,8 +1,8 @@
 ### Hi, I'm Fatih Emre 👋
 
-- 🔭 I’m currently working on [Kuveyt Turk Participation Bank A.S.](https://www.kuveytturk.com.tr/en/)
+- 🔭 I’m currently working on [Black Kite](https://blackkite.com/)
 
-- 🌱 I’m currently learning **NodeJs, Go**
+- 🌱 I’m currently learning **Go, Yaml**
 
 - 👯 I’m looking to collaborate on [Open Source Projects](http://github.com/fedemirbas)
 

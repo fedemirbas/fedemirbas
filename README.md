@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **Go, Yaml**
 
+- 💬 Ask me about **.Net Core, .Net Framework, Azure Devops, Unit Testing, CQRS, Rest/Soap Architecture, Software Architecture Design, Clean Architecture, Cloud Native Design**
+
 - 👯 I’m looking to collaborate on [Open Source Projects](http://github.com/fedemirbas)
 
 - 👨‍💻 All of my projects are available at [fedemirbas.com](http://github.com/fedemirbas)
